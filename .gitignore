@@ -165,6 +165,10 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+nbproject
+nbproject/
+target
+target/
 
 ### Windows ###
 # Windows thumbnail cache files

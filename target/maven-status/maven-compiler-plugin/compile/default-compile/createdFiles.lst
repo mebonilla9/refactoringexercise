@@ -1,0 +1,6 @@
+com/belatrixsf/refactoringexercies/business/NewJobLogger.class
+com/belatrixsf/refactoringexercies/business/logging/DatabaseHandler.class
+com/belatrixsf/refactoringexercies/persistence/dao/LogsDao.class
+com/belatrixsf/refactoringexercies/persistence/db/DbConnection.class
+com/belatrixsf/refactoringexercies/business/logging/DatabaseFormatter.class
+com/belatrixsf/refactoringexercies/business/JobLogger.class

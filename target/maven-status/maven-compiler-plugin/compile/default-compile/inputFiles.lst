@@ -1,0 +1,6 @@
+/Users/lord_nightmare/NetBeansProjects/RefactoringExercies/src/main/java/com/belatrixsf/refactoringexercies/business/NewJobLogger.java
+/Users/lord_nightmare/NetBeansProjects/RefactoringExercies/src/main/java/com/belatrixsf/refactoringexercies/business/logging/DatabaseFormatter.java
+/Users/lord_nightmare/NetBeansProjects/RefactoringExercies/src/main/java/com/belatrixsf/refactoringexercies/business/logging/DatabaseHandler.java
+/Users/lord_nightmare/NetBeansProjects/RefactoringExercies/src/main/java/com/belatrixsf/refactoringexercies/business/JobLogger.java
+/Users/lord_nightmare/NetBeansProjects/RefactoringExercies/src/main/java/com/belatrixsf/refactoringexercies/persistence/db/DbConnection.java
+/Users/lord_nightmare/NetBeansProjects/RefactoringExercies/src/main/java/com/belatrixsf/refactoringexercies/persistence/dao/LogsDao.java
